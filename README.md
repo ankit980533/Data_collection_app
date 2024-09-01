@@ -57,13 +57,13 @@ To start both the frontend and backend concurrently from the root folder, follow
 
 2. Run the application:
 
-  ```bash
-  npm start
+   ```bash
+   npm start
 
 This command will run both the frontend and backend servers simultaneously:
 
-   Frontend: Available at http://localhost:3000
-   Backend: Available at http://localhost:5000
+Frontend: Available at http://localhost:3000
+Backend: Available at http://localhost:5000
 
 ### Data List Page
 
