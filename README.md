@@ -31,7 +31,8 @@ This full-stack application allows users to manage and display data through a us
    cd frontend
 
 2. Install dependencies:
-  
+
+   ```bash
    npm install
 
 ### Backend
@@ -42,23 +43,27 @@ This full-stack application allows users to manage and display data through a us
 
 2. Install dependencies:
 
+    ```bash
     npm install
 
 ## Running the Application
 
 To start both the frontend and backend concurrently from the root folder, follow these steps:
 
-1. Navigate to the root directory (where both `frontend` and `backend` folders are located):
+1. **Navigate to the root directory** (where both `frontend` and `backend` folders are located):
 
    ```bash
    cd path/to/your/root/directory
-   
-2. Run the application:
- npm start
- This command will run both the frontend and backend servers simultaneously:
 
- Frontend: Available at http://localhost:3000
- Backend: Available at http://localhost:5000
+2. Run the application:
+
+  ```bash
+   npm start
+
+   This command will run both the frontend and backend servers simultaneously:
+
+   Frontend: Available at http://localhost:3000
+   Backend: Available at http://localhost:5000
 
 ### Data List Page
 
